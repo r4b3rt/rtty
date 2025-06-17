@@ -1,11 +1,9 @@
 Contributing
 ================================================================================
 
-If you want to contribute to [rtty](https://github.com/zhaojh329/rtty), please follow these simple rules:
+If you want to contribute to [rtty](/), please follow these simple rules:
 
 1. Press the fork button:
-
-    ![fork](http://oi58.tinypic.com/jj2trm.jpg)
 
 2. Clone the repository from your account with:
 
