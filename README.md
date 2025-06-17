@@ -96,7 +96,7 @@ Clone the code of rtty
 
 Build
 
-    cd rtty && mkdir build && cd build
+    cd rtty/rtty && mkdir build && cd build
     cmake .. && make install
 
 ### For Buildroot
@@ -106,9 +106,9 @@ Select rtty in menuconfig and compile it
         Shell and utilities  --->
             [*] rtty
 
-### [For OpenWRT](/OPENWRT.md)
+### [For OpenWRT](/rtty/OPENWRT.md)
 
-### [For Other Embedded Linux Platform](/CROSS_COMPILE.md)
+### [For Other Embedded Linux Platform](/rtty/CROSS_COMPILE.md)
 
 ## Command-line Options
 

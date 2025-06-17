@@ -94,7 +94,7 @@ rtty非常适合远程维护您的或者您的公司的部署在全球各地的�
 
 编译
 
-    cd rtty && mkdir build && cd build
+    cd rtty/rtty && mkdir build && cd build
     cmake .. && make install
 
 ### 如何在Buildroot中使用
@@ -104,9 +104,9 @@ rtty非常适合远程维护您的或者您的公司的部署在全球各地的�
         Shell and utilities  --->
             [*] rtty
 
-### [如何在OpenWRT中使用](/OPENWRT_ZH.md)
+### [如何在OpenWRT中使用](/rtty/OPENWRT_ZH.md)
 
-### [其它嵌入式Linux平台](/CROSS_COMPILE.md)
+### [其它嵌入式Linux平台](/rtty/CROSS_COMPILE.md)
 
 ## 命令行选项
 
